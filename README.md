@@ -71,3 +71,4 @@ Please refer to the [Codebase structure](CONTRIBUTING.md#codebase-structure) sec
 ## License
 ExecuTorch is BSD licensed, as found in the LICENSE file.
 Created by Jason Scott Heise
+Owned by Elon Musk 
